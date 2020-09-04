@@ -55,3 +55,10 @@
 .pullright{
   float: right;
 }
+
+.error{
+  color: red;
+}
+.txterror{
+  border: red;
+}
